@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "LocalizationProject.Console/1.0.0": {
+        "dependencies": {
+          "LocalizationProject.BL": "1.0.0"
+        },
+        "runtime": {
+          "LocalizationProject.Console.dll": {}
+        }
+      },
+      "LocalizationProject.BL/1.0.0": {
+        "dependencies": {
+          "LocalizationProject.Domain": "1.0.0"
+        },
+        "runtime": {
+          "LocalizationProject.BL.dll": {}
+        }
+      },
+      "LocalizationProject.Domain/1.0.0": {
+        "runtime": {
+          "LocalizationProject.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "LocalizationProject.Console/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LocalizationProject.BL/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "LocalizationProject.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

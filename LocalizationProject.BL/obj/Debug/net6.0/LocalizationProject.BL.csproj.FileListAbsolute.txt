@@ -1,0 +1,15 @@
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\bin\Debug\net6.0\LocalizationProject.BL.deps.json
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\bin\Debug\net6.0\LocalizationProject.BL.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\bin\Debug\net6.0\LocalizationProject.BL.pdb
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\bin\Debug\net6.0\LocalizationProject.Domain.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\bin\Debug\net6.0\LocalizationProject.Domain.pdb
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.csproj.AssemblyReference.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.AssemblyInfoInputs.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.AssemblyInfo.cs
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.csproj.CoreCompileInputs.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.csproj.CopyComplete
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\refint\LocalizationProject.BL.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\LocalizationProject.BL.pdb
+C:\MyProjects\LocalizationProject\LocalizationProject.BL\obj\Debug\net6.0\ref\LocalizationProject.BL.dll

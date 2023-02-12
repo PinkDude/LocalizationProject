@@ -1,0 +1,12 @@
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\bin\Debug\net6.0\LocalizationProject.Domain.deps.json
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\bin\Debug\net6.0\LocalizationProject.Domain.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\bin\Debug\net6.0\LocalizationProject.Domain.pdb
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.csproj.AssemblyReference.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.AssemblyInfoInputs.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.AssemblyInfo.cs
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.csproj.CoreCompileInputs.cache
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\refint\LocalizationProject.Domain.dll
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\LocalizationProject.Domain.pdb
+C:\MyProjects\LocalizationProject\LocalizationProject.Domain\obj\Debug\net6.0\ref\LocalizationProject.Domain.dll
